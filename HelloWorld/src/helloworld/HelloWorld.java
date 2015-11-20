@@ -6,8 +6,7 @@
 package helloworld;
 
 /**
- *
- * @author gavin
+ * @author Gavin Nicol
  */
 public class HelloWorld {
 
